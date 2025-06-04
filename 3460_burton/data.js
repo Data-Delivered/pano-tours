@@ -565,7 +565,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "2460 Burton Street",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
